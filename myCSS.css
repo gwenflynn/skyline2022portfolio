@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, georgia-serif;
-     background-color: #FFFFFF;
+     background-color: #E15631;
      margin: 0;
      padding: 0;
      color: #000;
@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #185C06;
+	background: #4C9A2A;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -43,7 +43,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #68BB59;
 	margin: 0px;
 	float: left;
 	width: 100%;
